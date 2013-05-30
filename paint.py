@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-__author__ = "Virendra Rajput"
+__author__ = "Virendra Rajput (virendra.rajput567@gmail.com)"
 
 import os
 import sys
