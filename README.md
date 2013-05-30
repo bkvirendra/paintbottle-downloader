@@ -4,6 +4,7 @@ paintbottle-downloader
 Downloads all the videos from http://paintbottle.com
 
 Requirements:
+------------
 
     requests==0.14.2
     python-progressbar==2.3
