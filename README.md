@@ -3,6 +3,10 @@ paintbottle-downloader
 
 Downloads all the videos from http://paintbottle.com
 
+(Tested only on Ubuntu as of now) 
+
+Let me know how it works on other platforms.
+
 Requirements:
 ------------
 
